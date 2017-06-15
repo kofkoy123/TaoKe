@@ -50,6 +50,7 @@ public class HomeActivity extends BaseActivity implements View.OnClickListener{
         fragmentTransaction.replace(R.id.content_layout,mHomeFragmet);
         fragmentTransaction.commit();
         changeFontColor(mHomeText);
+
     }
 
 
