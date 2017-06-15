@@ -14,7 +14,7 @@ import com.lzr.taoke.view.fragment.home.MessageFragment;
 import com.lzr.taoke.view.fragment.home.MineFragment;
 
 /**
- * @function 创建首页所有fragment1
+ * @function 创建首页所有fragment
  */
 public class HomeActivity extends BaseActivity implements View.OnClickListener{
 
